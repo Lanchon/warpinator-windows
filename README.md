@@ -14,7 +14,7 @@ These fake sites potentially push malware:
 
 Do **NOT** download or run any software from them!
 
-We do not know who maintain them. See [notice from the Linux Mint team](https://github.com/linuxmint/warpinator#%EF%B8%8F-warning-fakemalicious-website).
+We do not know who maintain them. See [notice from the Linux Mint team](https://github.com/linuxmint/warpinator#%EF%B8%8F-warning-fakemalicious-websites).
 
 ## Download
 Now available on the [Releases](https://github.com/slowscript/warpinator-windows/releases) page
